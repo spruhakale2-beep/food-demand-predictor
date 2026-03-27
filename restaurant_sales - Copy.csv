@@ -1,0 +1,76 @@
+date,time,item,category,quantity,price,day,weather
+2024-01-01,12:00,Burger,Fast Food,5,120,Monday,Sunny
+2024-01-01,13:00,Pizza,Fast Food,4,250,Monday,Sunny
+2024-01-01,14:00,Sandwich,Fast Food,3,90,Monday,Sunny
+2024-01-01,20:00,Pasta,Italian,4,200,Monday,Sunny
+2024-01-01,21:00,Fries,Fast Food,6,80,Monday,Sunny
+2024-01-02,12:00,Burger,Fast Food,3,120,Tuesday,Rainy
+2024-01-02,13:00,Pizza,Fast Food,2,250,Tuesday,Rainy
+2024-01-02,14:00,Sandwich,Fast Food,2,90,Tuesday,Rainy
+2024-01-02,20:00,Pasta,Italian,2,200,Tuesday,Rainy
+2024-01-02,21:00,Fries,Fast Food,3,80,Tuesday,Rainy
+2024-01-03,12:00,Burger,Fast Food,6,120,Wednesday,Cloudy
+2024-01-03,13:00,Pizza,Fast Food,5,250,Wednesday,Cloudy
+2024-01-03,14:00,Sandwich,Fast Food,4,90,Wednesday,Cloudy
+2024-01-03,20:00,Pasta,Italian,5,200,Wednesday,Cloudy
+2024-01-03,21:00,Fries,Fast Food,7,80,Wednesday,Cloudy
+2024-01-04,12:00,Burger,Fast Food,7,120,Thursday,Sunny
+2024-01-04,13:00,Pizza,Fast Food,6,250,Thursday,Sunny
+2024-01-04,14:00,Sandwich,Fast Food,5,90,Thursday,Sunny
+2024-01-04,20:00,Pasta,Italian,6,200,Thursday,Sunny
+2024-01-04,21:00,Fries,Fast Food,8,80,Thursday,Sunny
+2024-01-05,12:00,Burger,Fast Food,9,120,Friday,Sunny
+2024-01-05,13:00,Pizza,Fast Food,8,250,Friday,Sunny
+2024-01-05,14:00,Sandwich,Fast Food,6,90,Friday,Sunny
+2024-01-05,20:00,Pasta,Italian,7,200,Friday,Sunny
+2024-01-05,21:00,Fries,Fast Food,9,80,Friday,Sunny
+2024-01-06,12:00,Burger,Fast Food,13,120,Saturday,Sunny
+2024-01-06,13:00,Pizza,Fast Food,11,250,Saturday,Sunny
+2024-01-06,14:00,Sandwich,Fast Food,9,90,Saturday,Sunny
+2024-01-06,20:00,Pasta,Italian,10,200,Saturday,Sunny
+2024-01-06,21:00,Fries,Fast Food,12,80,Saturday,Sunny
+2024-01-07,12:00,Burger,Fast Food,12,120,Sunday,Sunny
+2024-01-07,13:00,Pizza,Fast Food,10,250,Sunday,Sunny
+2024-01-07,14:00,Sandwich,Fast Food,8,90,Sunday,Sunny
+2024-01-07,20:00,Pasta,Italian,9,200,Sunday,Sunny
+2024-01-07,21:00,Fries,Fast Food,11,80,Sunday,Sunny
+2024-01-08,12:00,Burger,Fast Food,5,120,Monday,Cloudy
+2024-01-08,13:00,Pizza,Fast Food,4,250,Monday,Cloudy
+2024-01-08,14:00,Sandwich,Fast Food,3,90,Monday,Cloudy
+2024-01-08,20:00,Pasta,Italian,4,200,Monday,Cloudy
+2024-01-08,21:00,Fries,Fast Food,6,80,Monday,Cloudy
+2024-01-09,12:00,Burger,Fast Food,4,120,Tuesday,Rainy
+2024-01-09,13:00,Pizza,Fast Food,3,250,Tuesday,Rainy
+2024-01-09,14:00,Sandwich,Fast Food,2,90,Tuesday,Rainy
+2024-01-09,20:00,Pasta,Italian,3,200,Tuesday,Rainy
+2024-01-09,21:00,Fries,Fast Food,4,80,Tuesday,Rainy
+2024-01-10,12:00,Burger,Fast Food,7,120,Wednesday,Sunny
+2024-01-10,13:00,Pizza,Fast Food,6,250,Wednesday,Sunny
+2024-01-10,14:00,Sandwich,Fast Food,5,90,Wednesday,Sunny
+2024-01-10,20:00,Pasta,Italian,6,200,Wednesday,Sunny
+2024-01-10,21:00,Fries,Fast Food,8,80,Wednesday,Sunny
+2024-01-11,12:00,Burger,Fast Food,8,120,Thursday,Sunny
+2024-01-11,13:00,Pizza,Fast Food,7,250,Thursday,Sunny
+2024-01-11,14:00,Sandwich,Fast Food,6,90,Thursday,Sunny
+2024-01-11,20:00,Pasta,Italian,7,200,Thursday,Sunny
+2024-01-11,21:00,Fries,Fast Food,9,80,Thursday,Sunny
+2024-01-12,12:00,Burger,Fast Food,10,120,Friday,Sunny
+2024-01-12,13:00,Pizza,Fast Food,9,250,Friday,Sunny
+2024-01-12,14:00,Sandwich,Fast Food,7,90,Friday,Sunny
+2024-01-12,20:00,Pasta,Italian,8,200,Friday,Sunny
+2024-01-12,21:00,Fries,Fast Food,10,80,Friday,Sunny
+2024-01-13,12:00,Burger,Fast Food,14,120,Saturday,Sunny
+2024-01-13,13:00,Pizza,Fast Food,12,250,Saturday,Sunny
+2024-01-13,14:00,Sandwich,Fast Food,10,90,Saturday,Sunny
+2024-01-13,20:00,Pasta,Italian,11,200,Saturday,Sunny
+2024-01-13,21:00,Fries,Fast Food,13,80,Saturday,Sunny
+2024-01-14,12:00,Burger,Fast Food,13,120,Sunday,Sunny
+2024-01-14,13:00,Pizza,Fast Food,11,250,Sunday,Sunny
+2024-01-14,14:00,Sandwich,Fast Food,9,90,Sunday,Sunny
+2024-01-14,20:00,Pasta,Italian,10,200,Sunday,Sunny
+2024-01-14,21:00,Fries,Fast Food,12,80,Sunday,Sunny
+2024-01-15,12:00,Burger,Fast Food,6,120,Monday,Cloudy
+2024-01-15,13:00,Pizza,Fast Food,5,250,Monday,Cloudy
+2024-01-15,14:00,Sandwich,Fast Food,4,90,Monday,Cloudy
+2024-01-15,20:00,Pasta,Italian,5,200,Monday,Cloudy
+2024-01-15,21:00,Fries,Fast Food,7,80,Monday,Cloudy
